@@ -18,6 +18,10 @@ A comprehensive video analytics platform with real-time object detection, moveme
 - **🛠️ Customizable Parameters**: Adjust frame intervals and model selection for optimal results
 - **📱 Responsive UI**: Modern interface that works across devices
 
+
+https://github.com/user-attachments/assets/af712b98-db77-41e5-abd5-12f6e8f34399
+
+
 ## 🛠️ Prerequisites
 
 Before getting started, ensure you have installed:
